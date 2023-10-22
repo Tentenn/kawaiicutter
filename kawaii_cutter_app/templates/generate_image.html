@@ -1,0 +1,49 @@
+{% load static %}
+<!--
+<form method="post">
+    {% csrf_token %}
+    <input type="text" name="text" placeholder="Enter text">
+    <input type="submit" value="Generate Image">
+</form>
+-->
+
+<form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Upload</button>
+</form>
+
+<style>
+    body {
+        background-color: black;
+    }
+	
+	.image-box {
+        width: 500px;
+        height: 500px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;  /* This will hide any excess whitespace if the image isn't square */
+    }
+
+    .image-box img {
+        max-width: 100%;
+        max-height: 100%;
+        display: block;  /* This will remove any extra space below the image */
+    }
+</style>
+
+<div class="image-box">
+    {% if original_image %}
+        <img src="{{ original_image }}" alt="Original Image">
+    {% endif %}
+</div>
+
+
+<div class="image-box">
+    {% if generated_image %}
+        <h2>Generated Image:</h2>
+        <img src="{{ generated_image }}" alt="Generated Masked Image">
+    {% endif %}
+</div>

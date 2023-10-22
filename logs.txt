@@ -1,0 +1,36 @@
+# 12:13:57_16-10-23# Generate image called
+# 12:14:05_16-10-23# Generate image called
+# 12:14:05_16-10-23# Checking if valid log
+# 12:14:05_16-10-23# <ul class="errorlist"><li>image<ul class="errorlist"><li>Ensure this filename has at most 100 characters (it has 161).</li></ul></li></ul>
+# 16:09:41_16-10-23# Generate image called
+# 16:09:41_16-10-23# Checking if valid log
+# 16:09:41_16-10-23# Valid Log Form
+# 16:09:41_16-10-23# Masking...
+# 16:09:41_16-10-23# ...initializing model...
+# 16:09:44_16-10-23# Model initialized
+# 16:09:44_16-10-23# segmenting...
+# 16:09:51_16-10-23# got mask
+# 16:09:51_16-10-23# image saved
+# 16:09:51_16-10-23# Masking finished
+# 02:18:50_17-10-23# Generate image called
+# 02:19:02_17-10-23# Generate image called
+# 02:19:02_17-10-23# Checking if valid log
+# 02:19:02_17-10-23# Valid Log Form
+# 02:19:02_17-10-23# Masking...
+# 02:19:02_17-10-23# ...initializing model...
+# 02:19:04_17-10-23# Model initialized
+# 02:19:04_17-10-23# segmenting...
+# 02:19:12_17-10-23# got mask
+# 02:19:12_17-10-23# image saved
+# 02:19:12_17-10-23# Masking finished
+# 02:25:23_17-10-23# Generate image called
+# 02:25:31_17-10-23# Generate image called
+# 02:25:31_17-10-23# Checking if valid log
+# 02:25:31_17-10-23# Valid Log Form
+# 02:25:31_17-10-23# Masking...
+# 02:25:31_17-10-23# ...initializing model...
+# 02:25:33_17-10-23# Model initialized
+# 02:25:33_17-10-23# segmenting...
+# 02:25:37_17-10-23# got mask
+# 02:25:37_17-10-23# image saved
+# 02:25:37_17-10-23# Masking finished

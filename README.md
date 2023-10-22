@@ -1,2 +1,2 @@
-# kawaiicutter
-High Quality Anime Dichotomous Image Segmentation
+# kawaii-cutter
+High Quality Dichotomous Image Segmentation for Anime Figures
