@@ -30,7 +30,7 @@ SECRET_KEY = read_key()
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['138.197.183.132', 'localhost']
 
 
 # Application definition
@@ -131,7 +131,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-MODEL_CHECKPOINT_PATH = os.path.join(BASE_DIR, 'model_checkpoints', 'epoch=31,f1=0.9677.ckpt')
+MODEL_CHECKPOINT_PATH = os.path.join(BASE_DIR, 'model_checkpoints', 'isnetis.ckpt')
 
 # STATIC FILES
 STATICFILES_DIRS = [
