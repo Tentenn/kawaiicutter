@@ -30,7 +30,7 @@ SECRET_KEY = read_key()
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['138.197.183.132', 'localhost']
+ALLOWED_HOSTS = ['138.197.183.132', '127.0.0.1', 'kawaii-cutter.com']
 
 
 # Application definition

@@ -83,3 +83,30 @@
 # 14:05:09_28-10-23# Valid Log Form
 # 14:05:48_28-10-23# Masking...
 # 14:05:54_28-10-23# ...initializing model...
+# 12:26:16_30-10-23# Generate image called
+# 12:26:50_30-10-23# Generate image called
+# 12:26:50_30-10-23# Checking if valid log
+# 12:26:50_30-10-23# Valid Log Form
+# 12:27:08_30-10-23# Generate image called
+# 12:27:12_30-10-23# Generate image called
+# 12:27:12_30-10-23# Checking if valid log
+# 12:27:12_30-10-23# Valid Log Form
+# 12:27:12_30-10-23# Masking...
+# 12:27:12_30-10-23# ...initializing model...
+# 12:27:13_30-10-23# Model initialized
+# 12:27:13_30-10-23# segmenting...
+# 12:27:18_30-10-23# got mask
+# 12:27:19_30-10-23# image saved
+# 12:27:19_30-10-23# Masking finished
+# 12:27:35_30-10-23# Generate image called
+# 20:45:07_02-11-23# Generate image called
+# 20:45:19_02-11-23# Generate image called
+# 20:45:19_02-11-23# Checking if valid log
+# 20:45:20_02-11-23# Valid Log Form
+# 20:45:20_02-11-23# Masking...
+# 20:45:20_02-11-23# ...initializing model...
+# 20:45:21_02-11-23# Model initialized
+# 20:45:21_02-11-23# segmenting...
+# 20:45:25_02-11-23# got mask
+# 20:45:25_02-11-23# image saved
+# 20:45:25_02-11-23# Masking finished

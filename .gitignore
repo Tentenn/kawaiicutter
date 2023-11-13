@@ -1,3 +1,7 @@
 key.txt
+aws-keys.txt
 model_checkpoints/*
 media/*
+static/
+logs.txt
+temporary_file.png
